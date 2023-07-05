@@ -24,7 +24,7 @@
 .heading::after{
     position: absolute;
     content: "";
-    width: 50%;
+    width: 70%;
     height: 3px;
     left: 50%;
     bottom: -5px;
